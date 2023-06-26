@@ -1,2 +1,2 @@
 # Split-landing-page
-Split elements landing pages
+Expand to the chosen one
